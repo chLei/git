@@ -1,2 +1,1 @@
-helphelp
-helphelp
+Creating a new branch is quick.
